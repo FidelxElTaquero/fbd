@@ -1,5 +1,8 @@
 #Tecnologico de pabellon de arteaga
 ## Diego Antonio Morales de la Cruz
+
+---
+
 ### 19 años
 #### 1.8Xm de altura
 ##### 50kg
